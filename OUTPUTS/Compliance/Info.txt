@@ -1,5 +1,5 @@
 SKU: 333050
-Full product name: microSD breakout
+Full product name: microSD card reader breakout
 Country of origin: Croatia
 HS tariff code: 85340090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388672004
